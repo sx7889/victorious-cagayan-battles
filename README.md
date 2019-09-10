@@ -1,4 +1,4 @@
-# victorious-cagayan-battles
+# Victorious Cagayan Battles
 
 This is the source of the game known as [Victorious Cagayan Battles](https://playvictorious.net).
 We used as a base [tesseract](http://tesseract.gg/)
